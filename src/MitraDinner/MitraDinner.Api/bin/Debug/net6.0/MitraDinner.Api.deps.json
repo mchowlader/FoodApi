@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MitraDinner.Api/1.0.0": {
+        "dependencies": {
+          "MitraDinner.Application": "1.0.0",
+          "MitraDinner.Contracts": "1.0.0",
+          "MitraDinner.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "MitraDinner.Api.dll": {}
+        }
+      },
+      "MitraDinner.Application/1.0.0": {
+        "dependencies": {
+          "MitraDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MitraDinner.Application.dll": {}
+        }
+      },
+      "MitraDinner.Contracts/1.0.0": {
+        "runtime": {
+          "MitraDinner.Contracts.dll": {}
+        }
+      },
+      "MitraDinner.Domain/1.0.0": {
+        "runtime": {
+          "MitraDinner.Domain.dll": {}
+        }
+      },
+      "MitraDinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MitraDinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "MitraDinner.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MitraDinner.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MitraDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MitraDinner.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MitraDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MitraDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

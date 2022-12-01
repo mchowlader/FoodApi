@@ -1,0 +1,29 @@
+
+enter folder >> cd Folder_Name
+back one folder >> cd..
+--------------------------------------------------------------
+dotnet new sln -o MitraDinner 
+
+cd MitraDinner
+
+dotnet new webapi -o MitraDinner.Api -f net6.0
+dotnet new classlib -o MitraDinner.Contracts -f net6.0
+dotnet new classlib -o MitraDinner.Infrastructure -f net6.0
+dotnet new classlib -o MitraDinner.Application -f net6.0
+dotnet new classlib -o MitraDinner.Domain -f net6.0
+
+dotnet build
+
+to check the sln >> more .\MitraDinner.sln
+
+add the file to in the sln >> dotnet sln add (ls -r **\*.csproj)
+
+----------------------------------create dependencies----------------------------------------
+
+dotnet add .\MitraDinner.Api\ reference .\MitraDinner.Contracts\ .\MitraDinner.Application\
+dotnet add .\MitraDinner.Infrastructure\ reference .\MitraDinner.Application\
+dotnet add .\MitraDinner.Application\ reference .\MitraDinner.Domain\
+
+dotnet add .\MitraDinner.Api\ reference .\MitraDinner.Infrastructure\
+----------------------------------------------------------------------------------------------
+dotnet run --project .\MitraDinner.Api\

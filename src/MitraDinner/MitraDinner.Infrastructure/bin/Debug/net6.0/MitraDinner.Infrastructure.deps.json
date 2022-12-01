@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MitraDinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MitraDinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "MitraDinner.Infrastructure.dll": {}
+        }
+      },
+      "MitraDinner.Application/1.0.0": {
+        "dependencies": {
+          "MitraDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MitraDinner.Application.dll": {}
+        }
+      },
+      "MitraDinner.Domain/1.0.0": {
+        "runtime": {
+          "MitraDinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MitraDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MitraDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MitraDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

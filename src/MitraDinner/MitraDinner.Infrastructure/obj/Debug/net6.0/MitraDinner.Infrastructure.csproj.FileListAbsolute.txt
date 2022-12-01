@@ -1,0 +1,17 @@
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\bin\Debug\net6.0\MitraDinner.Infrastructure.deps.json
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\bin\Debug\net6.0\MitraDinner.Infrastructure.dll
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\bin\Debug\net6.0\MitraDinner.Infrastructure.pdb
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\bin\Debug\net6.0\MitraDinner.Application.dll
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\bin\Debug\net6.0\MitraDinner.Domain.dll
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\bin\Debug\net6.0\MitraDinner.Application.pdb
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\bin\Debug\net6.0\MitraDinner.Domain.pdb
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\MitraDinner.Infrastructure.csproj.AssemblyReference.cache
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\MitraDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\MitraDinner.Infrastructure.AssemblyInfoInputs.cache
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\MitraDinner.Infrastructure.AssemblyInfo.cs
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\MitraDinner.Infrastructure.csproj.CoreCompileInputs.cache
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\MitraDinner.Infrastructure.csproj.CopyComplete
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\MitraDinner.Infrastructure.dll
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\refint\MitraDinner.Infrastructure.dll
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\MitraDinner.Infrastructure.pdb
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Infrastructure\obj\Debug\net6.0\ref\MitraDinner.Infrastructure.dll

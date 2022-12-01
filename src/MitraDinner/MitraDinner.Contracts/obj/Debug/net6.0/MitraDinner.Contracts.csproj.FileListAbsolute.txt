@@ -1,0 +1,12 @@
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\bin\Debug\net6.0\MitraDinner.Contracts.deps.json
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\bin\Debug\net6.0\MitraDinner.Contracts.dll
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\bin\Debug\net6.0\MitraDinner.Contracts.pdb
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.csproj.AssemblyReference.cache
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.AssemblyInfoInputs.cache
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.AssemblyInfo.cs
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.csproj.CoreCompileInputs.cache
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.dll
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\refint\MitraDinner.Contracts.dll
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.pdb
+F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\ref\MitraDinner.Contracts.dll
