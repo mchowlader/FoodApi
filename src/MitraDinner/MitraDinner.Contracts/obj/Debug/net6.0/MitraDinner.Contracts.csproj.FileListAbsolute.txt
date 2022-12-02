@@ -10,3 +10,15 @@ F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Deb
 F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\refint\MitraDinner.Contracts.dll
 F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.pdb
 F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\ref\MitraDinner.Contracts.dll
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\bin\Debug\net6.0\MitraDinner.Contracts.deps.json
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\bin\Debug\net6.0\MitraDinner.Contracts.dll
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\bin\Debug\net6.0\MitraDinner.Contracts.pdb
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.csproj.AssemblyReference.cache
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.AssemblyInfoInputs.cache
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.AssemblyInfo.cs
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.csproj.CoreCompileInputs.cache
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.dll
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\refint\MitraDinner.Contracts.dll
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\MitraDinner.Contracts.pdb
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Contracts\obj\Debug\net6.0\ref\MitraDinner.Contracts.dll

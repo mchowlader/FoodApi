@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\MitraDinner.Application.csproj": {}
+    "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\MitraDinner.Application.csproj": {}
   },
   "projects": {
-    "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\MitraDinner.Application.csproj": {
+    "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\MitraDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\MitraDinner.Application.csproj",
+        "projectUniqueName": "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\MitraDinner.Application.csproj",
         "projectName": "MitraDinner.Application",
-        "projectPath": "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\MitraDinner.Application.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\obj\\",
+        "projectPath": "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\MitraDinner.Application.csproj",
+        "packagesPath": "C:\\Users\\mithu\\.nuget\\packages\\",
+        "outputPath": "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mithu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj": {
-                "projectPath": "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj"
+              "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj": {
+                "projectPath": "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj"
               }
             }
           }
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj": {
+    "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj",
+        "projectUniqueName": "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj",
         "projectName": "MitraDinner.Domain",
-        "projectPath": "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Logic\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\obj\\",
+        "projectPath": "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\MitraDinner.Domain.csproj",
+        "packagesPath": "C:\\Users\\mithu\\.nuget\\packages\\",
+        "outputPath": "F:\\PetProject\\FoodApi\\src\\MitraDinner\\MitraDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mithu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,7 +104,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -112,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

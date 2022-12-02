@@ -10,3 +10,15 @@ F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Domain\obj\Debug\
 F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\refint\MitraDinner.Domain.dll
 F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\MitraDinner.Domain.pdb
 F:\RND\CleanArchitectureDDRFromScratch\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\ref\MitraDinner.Domain.dll
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\bin\Debug\net6.0\MitraDinner.Domain.deps.json
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\bin\Debug\net6.0\MitraDinner.Domain.dll
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\bin\Debug\net6.0\MitraDinner.Domain.pdb
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\MitraDinner.Domain.csproj.AssemblyReference.cache
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\MitraDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\MitraDinner.Domain.AssemblyInfoInputs.cache
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\MitraDinner.Domain.AssemblyInfo.cs
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\MitraDinner.Domain.csproj.CoreCompileInputs.cache
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\MitraDinner.Domain.dll
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\refint\MitraDinner.Domain.dll
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\MitraDinner.Domain.pdb
+F:\PetProject\FoodApi\src\MitraDinner\MitraDinner.Domain\obj\Debug\net6.0\ref\MitraDinner.Domain.dll
