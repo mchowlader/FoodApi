@@ -7,8 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MitraDinner.Contracts\MitraDinner.Contracts.csproj" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\MitraDinner.Application\MitraDinner.Application.csproj" />
+    <ProjectReference Include="..\MitraDinner.Contracts\MitraDinner.Contracts.csproj" />
     <ProjectReference Include="..\MitraDinner.Infrastructure\MitraDinner.Infrastructure.csproj" />
   </ItemGroup>
 

@@ -15,16 +15,8 @@
         }
       },
       "MitraDinner.Application/1.0.0": {
-        "dependencies": {
-          "MitraDinner.Domain": "1.0.0"
-        },
         "runtime": {
           "MitraDinner.Application.dll": {}
-        }
-      },
-      "MitraDinner.Domain/1.0.0": {
-        "runtime": {
-          "MitraDinner.Domain.dll": {}
         }
       }
     }
@@ -36,11 +28,6 @@
       "sha512": ""
     },
     "MitraDinner.Application/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MitraDinner.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
